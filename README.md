@@ -12,7 +12,7 @@
 
 ### Pull Requests (incluyen commits)
 
-- https://github.com/gustavo-jarpa/Portafolio/pull/1
-- https://github.com/Yeltsinglatam/Cv_Yeltsingimenez/pull/1
+- https://github.com/fanuneza/portafolio-desafio-latam/pull/3
+- https://github.com/cindyadasme/prueba-portafolio/pull/1
 
 ---
