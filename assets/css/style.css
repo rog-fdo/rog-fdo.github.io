@@ -1,0 +1,50 @@
+.roger {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #0a0035;
+  letter-spacing: 1px;
+}
+
+.navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-family: "Segoe UI", sans-serif;
+  color: #0a0035;
+  font-weight: bold;
+}
+
+h5 {
+  color: #005490;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+.educacion-box {
+  background-color: #e8f3ff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.trabajo-box {
+  background-color: #faffe8;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+  background-color: #000231;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.edu-img {
+  width: 500px;
+  height: 400px;
+  object-fit: contain;
+  border-radius: 2%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
